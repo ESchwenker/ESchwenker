@@ -8,6 +8,8 @@ I am a frontend developer who enjoys tackling complex problems, building efficie
 
 * 🌍  I'm based in Portland, OR
 * ✉️  You can contact me at [eschwenker24@outlook.com](mailto:eschwenker24@outlook.com)
+* 🧠  I'm currently learning everything I can about AI and how to enhance projects.
+* 👥  I'm looking to collaborate on anything and everything.
 
 ### Skills
 
